@@ -1,5 +1,5 @@
 
-- [Regular Expression Playground](https://regex101.com)\
+- [Regular Expression Playground](https://regex101.com)<br>
   regex testing service
 - [`sed` live](https://sed.js.org/index.html)\
   sed live session
