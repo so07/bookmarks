@@ -1,0 +1,8 @@
+site_name: Bookmarks
+
+theme:
+  name: readthedocs
+  highlightjs: true
+
+plugins:
+  - search
