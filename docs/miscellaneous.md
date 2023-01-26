@@ -1,4 +1,7 @@
 
-- [Regular Expression Playground](https://regex101.com)
-- [`sed` live](https://sed.js.org/index.html)
-- [wtf license](https://choosealicense.com)
+- [Regular Expression Playground](https://regex101.com)\
+  regex testing service
+- [`sed` live](https://sed.js.org/index.html)\
+  sed live session
+- [wtf license](https://choosealicense.com)\
+  How to choose an open source license
